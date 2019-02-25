@@ -1,19 +1,5 @@
 # React Native Stripe iOS
 
-**WORK IN PROGRESS**
+**DEPRECATED**
 
-Native integration for Stripe's iOS SDK: https://stripe.com/docs/mobile/ios
-
-## Installation
-
-```
-npm i --save react-native-stripe-ios
-```
-
-(TODO manual link instructions with binary)
-
-## Usage
-
-```js
-import Stripe from 'react-native-stripe-ios'
-```
+You should use [`tipsi-stripe`](https://github.com/tipsi/tipsi-stripe), which includes Apple Pay integration and works well.
